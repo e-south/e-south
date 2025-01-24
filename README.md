@@ -1,4 +1,4 @@
-Hi,
+Hey!
 
 - I'm Eric J. South, a PhD Candidate in the Dunlop Lab, part of the Biological Design Center at Boston University. Prev: Imperial College London, James Madison University
 - I'm an aspiring systems, synthetic, and computational biologist. I've been in the lab developing genetic circuits, high-throughput functional assays, and DNA sequence-to-expression models to steer cell physiology for synthetic biology applications.
