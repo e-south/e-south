@@ -1,4 +1,4 @@
-👋 **Hi, I'm @ericsouth**  
+👋 **Hi, I'm @e-south**  
 - PhD Candidate in the Dunlop Lab, part of the Biological Design Center at Boston University.  
 - Previously at Imperial College London and James Madison University.  
 - I’m interested in systems, synthetic, and computational biology. My research focuses on developing genetic circuits, high-throughput functional assays, and DNA sequence-to-expression models to engineer cell physiology for synthetic biology applications.
@@ -28,7 +28,7 @@ A collection of Python modules and data analysis pipelines for studying and desi
 
 #### 📬 Get in Touch  
 - **Email**: [ericjohnsouth@gmail.com](mailto:ericjohnsouth@gmail.com)  
-- **LinkedIn**: [Eric J. South](https://www.linkedin.com/in/eric-south-xyz/))  
+- **LinkedIn**: [Eric J. South](https://www.linkedin.com/in/eric-south-xyz/)
 
 <!--
 **e-south/e-south** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
