@@ -1,7 +1,6 @@
 👋 **Hi, I'm @e-south**  
 - PhD Candidate in the Dunlop Lab, part of the Biological Design Center at Boston University.  
-- Previously at Imperial College London and James Madison University.  
-- I’m interested in systems, synthetic, and computational biology. My research focuses on developing genetic circuits, high-throughput functional assays, and DNA sequence-to-expression models to engineer cell physiology for synthetic biology applications.
+- Previously at Imperial College London and James Madison University.
 
 #### 📂 Highlights
 
