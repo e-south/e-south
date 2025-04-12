@@ -6,7 +6,7 @@
 
 ---
 
-#### [densearrays](https://github.com/e-south/densearrays)  
+#### [dense-arrays](https://github.com/e-south/densearrays)  
 A computational method for designing nucleotide sequences with densely packed DNA-protein binding sites.
 - Pub in [PLOS Computational Biology](https://doi.org/10.1371/journal.pcbi.1012276)  
 
