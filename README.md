@@ -6,6 +6,13 @@
 
 ---
 
+#### [dnadesign](https://github.com/e-south/dnadesign)  
+A collection of Python modules and data analysis pipelines for studying and designing regulatory DNA elements, with an initial focus on bacterial stress promoters.
+- **Related Repo**:  Utilizes sourced datasets from [dnadesign-data](https://github.com/e-south/dnadesign-data).
+- **Features**: Integrates tools from **densearrays** and **deg2tfbs** to drive promoter analysis and design.
+
+---
+
 #### [dense-arrays](https://github.com/e-south/densearrays)  
 A computational method for designing nucleotide sequences with densely packed DNA-protein binding sites.
 - Pub in [PLOS Computational Biology](https://doi.org/10.1371/journal.pcbi.1012276)  
@@ -15,13 +22,6 @@ A computational method for designing nucleotide sequences with densely packed DN
 #### [deg2tfbs](https://github.com/e-south/deg2tfbs)  
 A pipeline for processing RNA-seq and proteomic datasets from *E. coli*. This tool identifies differentially expressed genes (DEGs) between conditions, maps them to associated transcription factors using RegulonDB, and retrieves their corresponding transcription factor binding sites (TFBSs).  
 - **Related Repo**:  Utilizes sourced datasets (e.g., from RegulonDB, EcoCyc, and primary literature) from [dnadesign-data](https://github.com/e-south/dnadesign-data).
-
----
-
-#### [dnadesign](https://github.com/e-south/dnadesign)  
-A collection of Python modules and data analysis pipelines for studying and designing regulatory DNA elements, with an initial focus on bacterial stress promoters.
-- **Related Repo**:  Utilizes sourced datasets from [dnadesign-data](https://github.com/e-south/dnadesign-data).
-- **Features**: Integrates tools from **densearrays** and **deg2tfbs** to drive promoter analysis and design.
 
 ---
 
