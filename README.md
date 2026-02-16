@@ -1,11 +1,6 @@
-# Hey, I'm Eric 👋
+# Eric South
 
-I'm building Python tools for DNA sequence design and experimental data workflows.
-
-## Activity
-
-![GitHub contribution heatmap](https://ghchart.rshah.org/e-south)
-![GitHub activity overview](https://gh-stats.work/API?username=e-south&show_icons=true&hide=stars,contribs&show=reviews&hide_rank=true&hide_border=true&title_color=0366d6&icon_color=586069&text_color=24292f&bg_color=ffffff)
+👋 Hey, I'm Eric. I'm building Python tools for DNA sequence design and experimental data workflows.
 
 ## Current Work
 
