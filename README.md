@@ -1,36 +1,47 @@
-👋 **Hi, I’m @e-south**
+# Eric South
 
-PhD Candidate in the Dunlop Lab, Biological Design Center, Boston University.
+PhD Candidate in the Dunlop Lab (Biological Design Center, Boston University).
+
+I build Python-first tooling for DNA sequence design and experimental data workflows.
 
 Previously at Imperial College London and James Madison University.
 
-### Current works
+## Activity Snapshot
 
-#### [dnadesign](https://github.com/e-south/dnadesign)
+![GitHub Activity Radar](./assets/activity-radar.svg)
 
-A DNA sequence design workspace: a modular set of bioinformatics pipelines and utilities for designing, analyzing, and managing biological data.
+## Current Work
 
-* Wraps packages like [densearrays](https://github.com/e-south/densearrays) and [Evo 2](https://github.com/ArcInstitute/evo2) to support workflows.
-* Provides a suite of command‑line entry points for many pipelines.
+### [dnadesign](https://github.com/e-south/dnadesign)
 
-#### [reader](https://github.com/e-south/reader)
+A DNA sequence design workspace with modular pipelines for biological design and analysis.
 
-* Command-line workbench for experimental data.
-* Plugin‑extensible registry that ingests raw instrument exports, applies transformations and post‑processing, and outputs tidy data and plots for downstream pipelines.
+- Integrates tools such as [dense-arrays](https://github.com/e-south/dense-arrays) and [Evo 2](https://github.com/ArcInstitute/evo2).
+- Provides command-line workflows for repeatable sequence analysis and data processing.
 
-### Past works
+### [reader](https://github.com/e-south/reader)
 
-#### [densearrays](https://github.com/e-south/densearrays)
+Command-line workbench for experimental data.
 
-Method for designing sequences with densely packed DNA–protein binding motifs.
+- Ingests raw instrument exports.
+- Applies transformations and post-processing.
+- Produces tidy outputs and plots for downstream pipelines.
 
-* Published in *PLOS Computational Biology* ([doi:10.1371/journal.pcbi.1012276](https://doi.org/10.1371/journal.pcbi.1012276)).
+## Research and Prior Work
 
-#### [deg2tfbs](https://github.com/e-south/deg2tfbs)
+### [dense-arrays](https://github.com/e-south/dense-arrays)
 
-Links differential expression to transcription factors and their binding sites.
+Method for designing DNA sequences with densely packed DNA-protein binding motifs.
 
-### Get in touch
+- Published in *PLOS Computational Biology* ([doi:10.1371/journal.pcbi.1012276](https://doi.org/10.1371/journal.pcbi.1012276)).
 
-* **Email:** [ericjohnsouth@gmail.com](mailto:ericjohnsouth@gmail.com)
-* **LinkedIn:** [Eric J. South](https://www.linkedin.com/in/eric-south-xyz/)
+### [deg2tfbs](https://github.com/e-south/deg2tfbs)
+
+Pipeline linking differential expression to transcription factors and candidate binding sites.
+
+## Collaboration
+
+Interested in collaborations on synthetic biology tooling, computational genomics, and reproducible experimental data pipelines.
+
+- Email: [ericjohnsouth@gmail.com](mailto:ericjohnsouth@gmail.com)
+- LinkedIn: [Eric J. South](https://www.linkedin.com/in/eric-south-xyz/)
