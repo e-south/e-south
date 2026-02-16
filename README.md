@@ -5,7 +5,7 @@ I'm building Python tools for DNA sequence design and experimental data workflow
 ## Activity
 
 ![GitHub contribution heatmap](https://ghchart.rshah.org/e-south)
-![GitHub profile stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=e-south&theme=github)
+![GitHub activity overview](https://gh-stats.work/API?username=e-south&show_icons=true&hide=stars,contribs&show=reviews&hide_rank=true&hide_border=true&title_color=0366d6&icon_color=586069&text_color=24292f&bg_color=ffffff)
 
 ## Current Work
 
