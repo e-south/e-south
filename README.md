@@ -1,10 +1,11 @@
-# Eric South
+# Hey, I'm Eric 👋
 
-PhD candidate in the [Dunlop Lab](https://www.dunloplab.com) ([Biological Design Center](https://www.bu.edu/bdc/), Boston University).
+I'm building Python tools for DNA sequence design and experimental data workflows.
 
-I build Python tools for DNA sequence design and experimental data workflows.
+## Activity
 
-Previously at Imperial College London and James Madison University.
+![GitHub contribution heatmap](https://ghchart.rshah.org/e-south)
+![GitHub profile stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=e-south&theme=github)
 
 ## Current Work
 
@@ -12,7 +13,6 @@ Previously at Imperial College London and James Madison University.
 
 DNA sequence design workspace with modular pipelines for biological design and analysis.
 
-- Documentation: [dnadesign docs](https://github.com/e-south/dnadesign/tree/main/docs)
 - Data companion repository: [dnadesign-data](https://github.com/e-south/dnadesign-data)
 - Integrates tools such as [dense-arrays](https://github.com/e-south/dense-arrays) and [Evo 2](https://github.com/ArcInstitute/evo2)
 
