@@ -1,6 +1,6 @@
 # Eric South
 
-👋 Hey, I'm Eric. I'm building Python tools for DNA sequence design and experimental data workflows.
+👋 Hey, I'm Eric. I'm building software for DNA sequence design and experimental data workflows.
 
 ## Current Work
 
