@@ -1,4 +1,4 @@
-<h1 align="center">Eric South</h1>
+<h1 align="center">Eric J. South</h1>
 
 <p align="center">
   <strong>Systems, synthetic, and computational biologist at Boston University's Biological Design Center.</strong>
@@ -69,7 +69,7 @@
 
 ## Selected Publications
 
-- **2024:** Co-first author, ["Generating information-dense promoter sequences with optimal string packing"](https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1012276). *PLOS Computational Biology*.
+- **2024:** ["Generating information-dense promoter sequences with optimal string packing"](https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1012276) (co-first author). *PLOS Computational Biology*.
 - **2024:** ["A molecular toolkit of cross-feeding strains for engineering synthetic yeast communities"](https://www.nature.com/articles/s41564-023-01596-4). *Nature Microbiology*.
-- **2023:** Co-first author, ["Spontaneously established syntrophic yeast communities improve bioproduction"](https://www.nature.com/articles/s41589-023-01341-2). *Nature Chemical Biology*.
-- **2022:** Co-first author, ["Transcriptional Tuning of Mevalonate Pathway Enzymes to Identify the Impact on Limonene Production in Escherichia coli"](https://pubs.acs.org/doi/10.1021/acsomega.2c00483). *ACS Omega*.
+- **2023:** ["Spontaneously established syntrophic yeast communities improve bioproduction"](https://www.nature.com/articles/s41589-023-01341-2) (co-first author). *Nature Chemical Biology*.
+- **2022:** ["Transcriptional Tuning of Mevalonate Pathway Enzymes to Identify the Impact on Limonene Production in Escherichia coli"](https://pubs.acs.org/doi/10.1021/acsomega.2c00483) (co-first author). *ACS Omega*.
