@@ -31,7 +31,8 @@
           <a href="https://github.com/e-south/dnadesign-data"><img src="https://img.shields.io/badge/Data-Companion-0A7BBB?style=for-the-badge" alt="dnadesign data"></a>
         </p>
         <p align="left">
-          dnadesign is a modular bioinformatics toolkit for biological sequence design.
+          dnadesign provides tools for designing DNA sequences, assembling
+          constructs, running sequence models, and reviewing results.
         </p>
       </td>
       <td width="33%" valign="top">
@@ -52,7 +53,8 @@
           <a href="https://github.com/e-south/reader/tree/main/docs"><img src="https://img.shields.io/badge/Docs-Guide-1F6FEB?style=for-the-badge" alt="reader docs"></a>
         </p>
         <p align="left">
-          reader is a toolkit for organizing experiment directories and running configuration-driven analysis pipelines on structured assay data.
+          reader turns raw experiment files into organized, reproducible
+          datasets, analyses, and plots.
         </p>
       </td>
     </tr>
