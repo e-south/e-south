@@ -1,74 +1,44 @@
 <h1 align="center">Eric J. South</h1>
 
 <p align="center">
-  <strong>Systems, synthetic, and computational biologist at Boston University's Biological Design Center.</strong>
-</p>
-
-<p align="center">
+  <strong>Systems, synthetic, and computational biologist at Boston University&#39;s Biological Design Center.</strong><br>
   PhD candidate in the Dunlop Lab.
 </p>
 
 <p align="center">
-  <a href="https://www.ericsouth.com"><img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
-  <a href="mailto:ericjohnsouth@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/eric-south-xyz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://scholar.google.com/citations?user=1VGyau8AAAAJ&hl=en&oi=ao"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
-  <a href="https://x.com/ericsouth_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-  <a href="https://bsky.app/profile/ericsouth.bsky.social"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky"></a>
+  <a href="https://www.ericsouth.com"><img src="https://img.shields.io/badge/Website-334155?style=flat" alt="Website"></a> · <a href="mailto:ericjohnsouth@gmail.com"><img src="https://img.shields.io/badge/Email-334155?style=flat" alt="Email"></a> · <a href="https://www.linkedin.com/in/eric-south-xyz/"><img src="https://img.shields.io/badge/LinkedIn-334155?style=flat" alt="LinkedIn"></a> · <a href="https://scholar.google.com/citations?user=1VGyau8AAAAJ&hl=en&oi=ao"><img src="https://img.shields.io/badge/Google_Scholar-334155?style=flat" alt="Google Scholar"></a> · <a href="https://x.com/ericsouth_"><img src="https://img.shields.io/badge/X-334155?style=flat" alt="X"></a> · <a href="https://bsky.app/profile/ericsouth.bsky.social"><img src="https://img.shields.io/badge/Bluesky-334155?style=flat" alt="Bluesky"></a>
 </p>
 
----
+## Recent work
 
-## Featured Work
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="33%" valign="top">
-        <h3 align="center"><strong>dnadesign</strong></h3>
-        <p align="center">
-          <a href="https://github.com/e-south/dnadesign"><img src="https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="dnadesign repository"></a>
-          <a href="https://github.com/e-south/dnadesign-data"><img src="https://img.shields.io/badge/Data-Companion-0A7BBB?style=for-the-badge" alt="dnadesign data"></a>
-        </p>
-        <p align="left">
-          dnadesign provides tools for designing DNA sequences, assembling
-          constructs, running sequence models, and reviewing results.
-        </p>
-      </td>
-      <td width="33%" valign="top">
-        <h3 align="center"><strong>dense-arrays</strong></h3>
-        <p align="center">
-          <a href="https://github.com/e-south/dense-arrays"><img src="https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="dense-arrays repository"></a>
-          <a href="https://doi.org/10.1371/journal.pcbi.1012276"><img src="https://img.shields.io/badge/Paper-PLOS-e9006d?style=for-the-badge" alt="dense-arrays paper"></a>
-          <a href="https://dunloplab.gitlab.io/dense-arrays"><img src="https://img.shields.io/badge/Docs-Reference-1F6FEB?style=for-the-badge" alt="dense-arrays docs"></a>
-        </p>
-        <p align="left">
-          dense-arrays is a library for designing double-stranded nucleotide sequences with densely packed DNA-protein binding sites.
-        </p>
-      </td>
-      <td width="33%" valign="top">
-        <h3 align="center"><strong>reader</strong></h3>
-        <p align="center">
-          <a href="https://github.com/e-south/reader"><img src="https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="reader repository"></a>
-          <a href="https://github.com/e-south/reader/tree/main/docs"><img src="https://img.shields.io/badge/Docs-Guide-1F6FEB?style=for-the-badge" alt="reader docs"></a>
-        </p>
-        <p align="left">
-          reader turns raw experiment files into organized, reproducible
-          datasets, analyses, and plots.
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## Selected Experience
-
-- **Boston University Biological Design Center (2020-present):** PhD candidate developing genetic circuits, high-throughput functional assays, and DNA sequence-to-expression models to steer cell physiology in synthetic biology applications.
-- **LanzaTech / EBRC (2022):** Contributed to pooled DNA library design, high-throughput screening, next-generation sequencing, and biosensor workflows for gas-fermenting strains.
-- **Imperial College London / Francis Crick Institute (2018-2020):** Built a lab automation-enabled co-culture screening platform and an R analysis pipeline to map cross-feeding across an auxotrophic yeast knockout library.
-- **SRI International / Center for Macromolecular Bioscience (2017-2018):** Maintained mammalian cell cultures and evaluated peptide drug candidates in non-small cell lung cancer models using flow cytometry and Western blotting.
+<table>
+<tr>
+<td  width="50%" valign="top">
+<p><strong><a href="https://github.com/e-south/dnadesign">dnadesign</a></strong><br>
+A modular bioinformatics toolkit for designing sequence libraries, assembling DNA constructs, running sequence models, and analyzing their outputs.</p>
+</td>
+<td  width="50%" valign="top">
+<p><strong><a href="https://github.com/e-south/dense-arrays">dense-arrays</a></strong><br>
+Designs DNA sequences with densely packed protein-binding sites using optimal string packing across both strands.</p>
+</td>
+</tr>
+<tr>
+<td  width="50%" valign="top">
+<p><strong><a href="https://github.com/e-south/reader">reader</a></strong><br>
+Ingests instrument files and experiment metadata, applies specified transformations, and produces validated records, plots, exports, and notebooks.</p>
+</td>
+<td  width="50%" valign="top">
+<p><strong><a href="https://github.com/e-south/motif-balance">motif-balance</a></strong><br>
+Designs DNA libraries that balance transcription-factor motif preferences, with alternative binding-site arrangements and sequence variants for testing biological function.</p>
+</td>
+</tr>
+<tr>
+<td  width="50%" valign="top">
+<p><strong><a href="https://github.com/e-south/hop-design">hop-design</a></strong><br>
+Plans construction of degenerate DNA hairpins for sequence-to-function studies, preserving the experimental stem and specifying oligonucleotides and modeled processing steps.</p>
+</td>
+</tr>
+</table>
 
 ## Selected Publications
 
