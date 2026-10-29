@@ -6,7 +6,12 @@
 </p>
 
 <p align="center">
-  <a href="https://www.ericsouth.com"><img src="https://img.shields.io/badge/Website-334155?style=flat" alt="Website"></a> · <a href="mailto:ericjohnsouth@gmail.com"><img src="https://img.shields.io/badge/Email-334155?style=flat" alt="Email"></a> · <a href="https://www.linkedin.com/in/eric-south-xyz/"><img src="https://img.shields.io/badge/LinkedIn-334155?style=flat" alt="LinkedIn"></a> · <a href="https://scholar.google.com/citations?user=1VGyau8AAAAJ&hl=en&oi=ao"><img src="https://img.shields.io/badge/Google_Scholar-334155?style=flat" alt="Google Scholar"></a> · <a href="https://x.com/ericsouth_"><img src="https://img.shields.io/badge/X-334155?style=flat" alt="X"></a> · <a href="https://bsky.app/profile/ericsouth.bsky.social"><img src="https://img.shields.io/badge/Bluesky-334155?style=flat" alt="Bluesky"></a>
+  <a href="https://www.ericsouth.com"><img src="https://img.shields.io/badge/Website-A8D5C2?style=flat" alt="Website"></a>
+  <a href="mailto:ericjohnsouth@gmail.com"><img src="https://img.shields.io/badge/Email-A8D5C2?style=flat" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/eric-south-xyz/"><img src="https://img.shields.io/badge/LinkedIn-A8D5C2?style=flat" alt="LinkedIn"></a>
+  <a href="https://scholar.google.com/citations?user=1VGyau8AAAAJ&hl=en&oi=ao"><img src="https://img.shields.io/badge/Google_Scholar-A8D5C2?style=flat" alt="Google Scholar"></a>
+  <a href="https://x.com/ericsouth_"><img src="https://img.shields.io/badge/X-A8D5C2?style=flat" alt="X"></a>
+  <a href="https://bsky.app/profile/ericsouth.bsky.social"><img src="https://img.shields.io/badge/Bluesky-A8D5C2?style=flat" alt="Bluesky"></a>
 </p>
 
 ## Recent work
